@@ -1,0 +1,13 @@
+__vm/
+Debug/
+*.vcxproj
+*.filters
+.vs/
+*.sln
+.vscode/
+*.pyc
+Blinker/__pycache__
+.idea/
+dist/
+*.egg-info
+build/
